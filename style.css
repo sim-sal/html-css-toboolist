@@ -1,38 +1,70 @@
 /* regole generali di pagina */
 *{
-    margin: o;
+    margin: 0;
     box-sizing: border-box;
 }
 
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(246, 248, 249);
+    background-color: rgb(240, 239, 239);
 }
 
 header{
     background-color: white;
     height: 80px;
+    
+}
+
+#container{
+    width: 80%;
+    margin: 45px auto;
 }
 
 #main-title{
     font-size: 45px;
-    vertical-align: middle;
+    vertical-align: bottom;  
 }
 
 #logo{
-    vertical-align: middle;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 
 nav{
     background-color: white;
+    padding-left: 70px;
+    height: 70px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
 }
 
 main{
     background-color: white;
+    margin-top: 5px;
+    padding-left: 70px;
+}
+
+button{
+    position: relative;
+    top: 20px;
 }
 
 #botton-task{
     background-color: rgb(71,173,241);
+    color: white;
+    border-color: rgb(71,173,241);
+    padding: 6px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+#botton-section{
+    background-color: white;
+    color: rgb(209, 209, 209);
+    border-color: rgb(209, 209, 209);
+    padding: 6px;
+    border-radius: 5px;
+    font-weight: bolder;
 }
 
 
