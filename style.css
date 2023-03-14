@@ -38,12 +38,6 @@ nav{
     border-top-left-radius: 8px;
 }
 
-main{
-    background-color: white;
-    margin-top: 5px;
-    padding-left: 70px;
-}
-
 button{
     position: relative;
     top: 20px;
@@ -67,5 +61,25 @@ button{
     font-weight: bolder;
 }
 
+main{
+    background-color: white;
+    margin-top: 5px;
+    padding-left: 70px;
+    padding-top: 30px;
+}
 
+h2{
+    color: rgb(68, 72, 81);
+}
 
+.triangle{
+    font-size: 40px;
+    position: relative;
+    top: 22px;
+}
+
+.circle{
+    background-color: rgb(159,218,205);
+    font-size: larger;
+    border-radius: 50%;
+}
