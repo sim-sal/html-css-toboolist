@@ -1,0 +1,39 @@
+/* regole generali di pagina */
+*{
+    margin: o;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(246, 248, 249);
+}
+
+header{
+    background-color: white;
+    height: 80px;
+}
+
+#main-title{
+    font-size: 45px;
+    vertical-align: middle;
+}
+
+#logo{
+    vertical-align: middle;
+}
+
+nav{
+    background-color: white;
+}
+
+main{
+    background-color: white;
+}
+
+#botton-task{
+    background-color: rgb(71,173,241);
+}
+
+
+
