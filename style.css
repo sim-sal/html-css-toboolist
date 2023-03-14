@@ -110,5 +110,64 @@ section{
 }
 
 .editorial{
-    
+    background-color: rgb(69,171,234);
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 12px;
 }
+
+.goals{
+    background-color: rgb(156,114,228);
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 12px;
+}
+
+.recruiting{
+    background-color: rgb(100,192,169);
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 12px;
+}
+
+.mobile{
+    background-color: rgb(242,158,51);
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 12px;
+}
+
+.website{
+    background-color: rgb(216,99,161);
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 12px;
+}
+
+.sales{
+    background-color: rgb(176,201,38);
+    padding: 7px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: normal;
+    border-radius: 12px;
+}
+
+
+
